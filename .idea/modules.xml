@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/DTIJAVAPROJECTONEE.iml" filepath="$PROJECT_DIR$/DTIJAVAPROJECTONEE.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/DTIJAVAProjectTwo.iml" filepath="$PROJECT_DIR$/DTIJAVAProjectTwo.iml" />
+>>>>>>> 56d6b54 (v.1 create BMI and AreaProject 2 project)
     </modules>
   </component>
 </project>
